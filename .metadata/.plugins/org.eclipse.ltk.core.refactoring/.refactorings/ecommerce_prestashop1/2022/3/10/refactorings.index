@@ -1,0 +1,4 @@
+1646426571046	Rename method 'incluirProdutoNoCarrinho_ProdutoIncluidoComSucesso'
+1646426668418	Rename method 'IrParaCarrinho_InformacoesPersistidas'
+1646426688881	Rename method 'IrParaCheckout_FreteMeioPagamentoEnderecoListado_Ok'
+1646426703063	Rename method 'finalizarPedido_pedidoFinalizadoComSucesso'
